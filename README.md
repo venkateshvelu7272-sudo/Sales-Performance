@@ -1,2 +1,3 @@
 # Sales-Performance
-Sales performance dashboard using SQL, Python, and Power BI
+Sales performance Analysis using SQL, Python(Pandas), and Power BI
+
