@@ -79,7 +79,21 @@ This analysis helps businesses:
 - Improve sales strategy  
 - Optimize inventory planning  
 - Identify high-value products  
-- Make data-driven decisions  
+- Make data-driven decisions
+
+  ## Business Recommendations
+  1. Focus on High-Performing Products
+      - Ensure stock availability.
+      - Promote premium bike models.
+  2. Improve Low-Performing Categories
+     - Apply discounts on clothing.
+     - Bundle products (Bike + Accessories).
+  3. Increase Average Order Value
+     - Introduce combo offers.
+     - Offer loyalty discounts.
+  4. Optimize Inventory Planning
+      - Reduce stock for slow-moving items.
+      - Increase inventory for high-demand SKUs.
 
 ---
 
